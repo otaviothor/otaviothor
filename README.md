@@ -10,7 +10,7 @@
 ### A little about myself  
 
 ```javascript
-const thai = {
+const otaviothor = {
   mainInterests: [ReactJS, Node.js, Laravel, JavaScript],
   programmingSkills: [HTML, CSS, JS, PHP, OOP Programming],
   database: [MySQL, MariaDB, SQLite, MongoDB],
