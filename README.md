@@ -16,7 +16,7 @@ const thai = {
   database: [MySQL, MariaDB, SQLite, MongoDB],
   packageManager: [NPM, Yarn, Composer],
   tools: [Docker, VS Code, Expo, Insomnia, Postman, Kanban, Scrum],
-  others: [APIs, Git/Github, OS Linux, Ionic, Typescript]
+  others: [APIs, Git/Github, OS Linux, Ionic, Typescript],
   languages: {
     english: "intermediary",
     portuguese: "native"
