@@ -1,7 +1,7 @@
 <h2> What's up, Otávio here</h2>
 <p>
   <em>
-    Fullstack developer at <a href="http://www.houpa.app">Houpa!</a>
+    Fullstack developer at <a href="http://www.houpa.app" target="_blank">Houpa!</a>
     <br />
     Systems analysis and development student 
   </em>
