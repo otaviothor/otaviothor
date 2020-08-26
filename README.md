@@ -1,11 +1,7 @@
-<h2> What's up, Otávio here</h2>
-<p>
-  <em>
-    Fullstack developer at <a href="http://www.houpa.app">Houpa!</a>
-    <br />
-    Systems analysis and development student 
-  </em>
-</p>
+## What's up, Otávio here
+
+_Fullstack developer at [Houpa!](http://www.houpa.app)_
+_Systems analysis and development student_
 
 ### A little about myself  
 
@@ -24,7 +20,7 @@ const otaviothor = {
 }
 ```
 
-See also my portfolio site: https://otaviothor.github.io/portfolio/
+### See also my portfolio site: https://otaviothor.github.io/portfolio/
 ---
 
 ⭐️ From [@otaviothor](https://github.com/otaviothor)
