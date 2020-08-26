@@ -25,7 +25,6 @@ const otaviothor = {
 ```
 
 See also my portfolio site: https://otaviothor.github.io/portfolio/
-
 ---
 
 ⭐️ From [@otaviothor](https://github.com/otaviothor)
