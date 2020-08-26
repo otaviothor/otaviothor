@@ -1,7 +1,7 @@
 ## What's up, Otávio here
 
-_Fullstack developer at [Houpa!](http://www.houpa.app)_
-_Systems analysis and development student_
+_Fullstack developer at [Houpa!](http://www.houpa.app)._
+_Systems analysis and development student._
 
 ### A little about myself  
 
