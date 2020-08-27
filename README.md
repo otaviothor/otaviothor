@@ -9,7 +9,7 @@ Systems analysis and development student_
 
 ### A little about myself  
 
-```json
+```javascript
 const otaviothor = {
   mainInterests: ['ReactJS', 'Node.js', 'Laravel', 'JavaScript'],
   programmingSkills: ['HTML', 'CSS', 'JS', 'PHP', 'OOP Programming'],
