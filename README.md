@@ -20,8 +20,6 @@ const otaviothor = {
 }
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviothor&layout=compact)](https://github.com/otaviothor)
-
 ### See also my portfolio site: https://otaviothor.github.io/portfolio/
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otaviosilva2632@gmail.com)](mailto:otaviosilva2632@gmail.com)
