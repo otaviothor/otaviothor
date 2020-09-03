@@ -13,8 +13,7 @@ Em paralelo desenvolvo alguns projetos com PHP puro seguindo as PSRs, Laravel, L
 
 Veja também o meu site de portfólio: https://otaviothor.github.io/portfolio/
 
-Todo fracasso gera a semente de um sucesso equivalente. - _Napoleon Hill_
-
 ---
 
-⭐️ From [@otaviothor](https://github.com/otaviothor)
+
+Todo fracasso gera a semente de um sucesso equivalente. - _Napoleon Hill_ | ⭐️ From [@otaviothor](https://github.com/otaviothor)
