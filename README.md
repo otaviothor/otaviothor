@@ -1,30 +1,19 @@
-## What's up, Otávio here
+## Opa, Otávio aqui
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otaviosilva2632@gmail.com)](mailto:otaviosilva2632@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otaviosilva02/)](https://www.linkedin.com/in/otaviosilva02/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/otaviothor_/)](https://www.instagram.com/otaviothor_/)
 
-_Fullstack developer at [Houpa!](https://www.houpa.app) <br/>
-Systems analysis and development student_
+_Desenvolvedor fullstack no [Houpa!](https://www.houpa.app) <br/>
+Estudante de análise e desenvolvimento de sistema_
 
-### A little about myself  
+### Um pouco sobre mim  
 
-```javascript
-const otaviothor = {
-  mainInterests: ['ReactJS', 'Node.js', 'Laravel', 'JavaScript'],
-  programmingSkills: ['HTML', 'CSS', 'JS', 'PHP', 'OOP Programming'],
-  database: ['MySQL', 'MariaDB', 'SQLite', 'MongoDB'],
-  packageManager: ['NPM', 'Yarn', 'Composer'],
-  tools: ['Docker', 'VS Code', 'Expo', 'Insomnia', 'Postman', 'Kanban', 'Scrum'],
-  others: ['APIs', 'Git/Github', 'OS Linux', 'Ionic', 'Typescript'],
-  languages: {
-    english: "intermediary",
-    portuguese: "native"
-  },
-}
-```
+Atualmente estou no meu primeiro emprego onde atuo como desenvolvendo APIs RESTful com o framework PHP CodeIgniter e frontend web com HTML, SASS e AngularJS.
 
-### See also my portfolio site: https://otaviothor.github.io/portfolio/
+Em paralelo desenvolvo alguns projetos com PHP puro seguindo as PSRs, Laravel, Lumen, CodeIgniter, JavaScript, ReactJS, Vue.js, Angular, Node.js, Ionic, React Native.  
+
+### Veja também o meu site de portfólio: https://otaviothor.github.io/portfolio/
 
 ---
 
