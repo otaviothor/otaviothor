@@ -11,7 +11,10 @@ Atualmente estou no meu primeiro emprego onde atuo como desenvolvendo APIs RESTf
 
 Em paralelo desenvolvo alguns projetos com PHP puro seguindo as PSRs, Laravel, Lumen, CodeIgniter, JavaScript, ReactJS, Vue.js, Angular, Node.js, Ionic, React Native.
 
-### Veja também o meu site de portfólio: https://otaviothor.github.io/portfolio/
+Veja também o meu site de portfólio: https://otaviothor.github.io/portfolio/
+
+Todo fracasso gera a semente de um sucesso equivalente.
+- Napoleon Hill
 
 ---
 
