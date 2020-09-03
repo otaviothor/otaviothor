@@ -15,5 +15,4 @@ Veja também o meu site de portfólio: https://otaviothor.github.io/portfolio/
 
 ---
 
-
-Todo fracasso gera a semente de um sucesso equivalente. - _Napoleon Hill_ | ⭐️ From [@otaviothor](https://github.com/otaviothor)
+⭐️ From [@otaviothor](https://github.com/otaviothor)
