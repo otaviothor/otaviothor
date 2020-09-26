@@ -7,7 +7,7 @@
 _Desenvolvedor fullstack no [Houpa!](https://www.houpa.app) <br/>
 Estudante de análise e desenvolvimento de sistemas_
 
-Atualmente estou no meu primeiro emprego onde desenvolvo APIs RESTful com o framework PHP CodeIgniter e frontend web com HTML, SASS e AngularJS.
+Atualmente estou no meu primeiro emprego onde desenvolvo APIs RESTful com o framework PHP CodeIgniter e frontend web ReactJS.
 
 Em paralelo desenvolvo alguns projetos com PHP puro seguindo as PSRs, Laravel, Lumen, CodeIgniter, JavaScript, ReactJS, Vue.js, Angular, Node.js, Ionic, React Native.
 
