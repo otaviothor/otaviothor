@@ -4,8 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otaviosilva02/)](https://www.linkedin.com/in/otaviosilva02/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/otaviothor_/)](https://www.instagram.com/otaviothor_/)
 
-_Desenvolvedor fullstack no [Houpa!](https://www.houpa.app) <br/>
-Estudante de análise e desenvolvimento de sistemas_
+_Desenvolvedor fullstack no [Houpa!](https://www.houpa.app)_
 
 Atualmente estou no meu primeiro emprego onde desenvolvo APIs RESTful com o framework PHP CodeIgniter e frontend web ReactJS.
 
