@@ -12,8 +12,6 @@ Em paralelo desenvolvo alguns projetos com PHP puro seguindo as PSRs, Laravel, L
 
 Veja também o meu portfólio: https://otaviothor.github.io/portfolio/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviothor&layout=compact&theme=dracula)](https://github.com/otaviothor)
-
 ---
 
 ⭐️ From [@otaviothor](https://github.com/otaviothor)
