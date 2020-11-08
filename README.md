@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otaviosilva2632@gmail.com)](mailto:otaviosilva2632@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otaviosilva02/)](https://www.linkedin.com/in/otaviosilva02/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/otaviothor_/)](https://www.instagram.com/otaviothor_/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/otaviothor_/)](https://twitter.com/otaviothor_/)
 
 _Desenvolvedor fullstack no [Houpa!](https://www.houpa.app)_
 
