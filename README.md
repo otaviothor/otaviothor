@@ -1,7 +1,8 @@
-# Otávio Silva
+# otávio silva
 
-_Desenvolvedor fullstack no [Houpa!](https://www.houpa.app)_
+_desenvolvedor fullstack no [houpa!](https://www.houpa.app)_
 
-Veja também o meu portfólio: https://otaviothor.github.io/portfolio/
+> "todo fracasso traz consigo a semente de um sucesso equivalente"
+> ― napoleon hill
 
-### [E-mail](mailto:otaviosilva2632@gmail.com) | [LinkedIn](https://www.linkedin.com/in/otaviosilva02) | [Instagram](https://www.instagram.com/otaviothor_) | [Twitter](https://twitter.com/otaviothor_)
+### [e-mail](mailto:otaviosilva2632@gmail.com) | [linkedin](https://www.linkedin.com/in/otaviosilva02) | [instagram](https://www.instagram.com/otaviothor_) | [twitter](https://twitter.com/otaviothor_) | [portfólio](https://otaviothor.github.io/portfolio)
