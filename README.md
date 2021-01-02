@@ -1,6 +1,6 @@
 # Otávio Silva
 
-## [E-mail](mailto:otaviosilva2632@gmail.com) | [LinkedIn](https://www.linkedin.com/in/otaviosilva02) | [Instagram](https://www.instagram.com/otaviothor_) | [Twitter](https://twitter.com/otaviothor_) 
+<h3>[E-mail](mailto:otaviosilva2632@gmail.com) | [LinkedIn](https://www.linkedin.com/in/otaviosilva02) | [Instagram](https://www.instagram.com/otaviothor_) | [Twitter](https://twitter.com/otaviothor_) </h3>
 
 _Desenvolvedor fullstack no [Houpa!](https://www.houpa.app)_
 
