@@ -2,7 +2,8 @@
 
 _desenvolvedor fullstack no [houpa!](https://www.houpa.app)_
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviothor&layout=compact&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  |  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=otaviothor&show_icons=false&theme=dracula&hide=prs,issues,contribs)
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviothor&layout=compact&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  |  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=otaviothor&show_icons=false&theme=dracula&hide=prs,issues,contribs)  |
+| ------------------- | ------------------- |
 
 > "todo fracasso traz consigo a semente de um sucesso equivalente" ― _napoleon hill_
 
