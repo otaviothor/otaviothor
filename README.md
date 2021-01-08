@@ -1,9 +1,10 @@
 # otávio silva
 
-_desenvolvedor fullstack no [houpa!](https://www.houpa.app)_
+ . fullstack developer <br>
+ . 18yo <br>
+ . focused on the php and js ecosystem <br>
+ . adept at open source <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviothor&layout=compact&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=otaviothor&show_icons=false&theme=dracula&hide=issues,prs) 
-
-> "todo fracasso traz consigo a semente de um sucesso equivalente" ― _napoleon hill_
+_work with php and reactjs at [houpa!](https://www.houpa.app)_
 
 ### [e-mail](mailto:otaviosilva2632@gmail.com) | [linkedin](https://www.linkedin.com/in/otaviosilva02) | [instagram](https://www.instagram.com/otaviothor_) | [twitter](https://twitter.com/otaviothor_) | [portfólio](https://otaviothor.github.io/portfolio)
