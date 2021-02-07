@@ -1,4 +1,4 @@
-# otávio silva slightly_smiling_face
+# otávio silva 🙃
 
 _work with php and reactjs at [houpa!](https://www.houpa.app)_
 
