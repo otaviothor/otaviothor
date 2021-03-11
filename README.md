@@ -1,6 +1,6 @@
 # otávio silva 🙃
 
-_work with php and reactjs at [houpa!](https://www.houpa.app)_
+_working with php, reactjs and nestjs at [houpa!](https://www.houpa.app)_
 
  · fullstack developer <br>
  · 18yo <br>
