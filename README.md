@@ -3,7 +3,7 @@
 _working with php, reactjs and nestjs at [houpa!](https://www.houpa.app)_
 
  · fullstack developer <br>
- · 18 years <br>
+ · 18 years old <br>
  · focused on the php and js ecosystem <br>
  · adept at open source <br>
 
