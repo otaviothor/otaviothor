@@ -1,8 +1,8 @@
 # otávio silva 🙃
 
-_working with php, reactjs and nestjs at [houpa!](https://www.houpa.app)_
+_working with php and js_
 
- · fullstack developer <br>
+ · backend developer <br>
  · 19 years old <br>
  · focused on the php and js ecosystem <br>
  · adept at open source
