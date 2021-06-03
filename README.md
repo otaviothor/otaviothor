@@ -1,6 +1,6 @@
 # otávio silva 🙃
 
-_working with php and js_
+_working with node.js at [act digital](https://actdigital.com/en/)_
 
  · backend developer <br>
  · 19 years old <br>
