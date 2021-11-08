@@ -2,7 +2,7 @@
 
 _working with node.js at [act digital](https://actdigital.com/en/)_
 
- · backend developer <br>
+ · fullstack developer <br>
  · 19 years old <br>
  · focused on the php and js ecosystem <br>
  · adept at open source <br>
