@@ -1,6 +1,6 @@
 # otávio silva 🙃
 
-_working with node.js at [act digital](https://actdigital.com/en/)_
+_working with node.js at [act digital](https://actdigital.com/)_
 
  · fullstack developer <br>
  · 19 years old <br>
