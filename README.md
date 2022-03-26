@@ -3,7 +3,7 @@
 _working with angular at [act digital](https://actdigital.com/)_
 
  · fullstack developer <br>
- · 19 years old <br>
+ · 20 years old <br>
  · focused on the js ecosystem <br>
  · adept at open source <br>
  · currently studying .net and java
