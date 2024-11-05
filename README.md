@@ -6,7 +6,7 @@ _working with angular at [F1rst Tecnologia](https://www.linkedin.com/company/f1r
  · 22 years old <br>
  · focused on the js ecosystem <br>
  · adept at open source <br>
- · currently studying unit testing and c#
+ · currently studying unit testing and java
 
 
 ### [e-mail](mailto:otaviosilva2632@gmail.com) | [linkedin](https://www.linkedin.com/in/otaviosilva02) | [portfolio](https://www.otaviosilva.dev/)
